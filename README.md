@@ -1,4 +1,5 @@
-# E-commerce sales 
+# E-commerce sales Dashboard and General Store Analysis
+
 Overview: Design a sales dashboard that analyzes the sales based on various product categories. The company wants to add user control for product category so that users can select a category and can see the trend month-wise and product-wise accordingly.
 Key Components:
 1. Data Analysis Add-in: Utilized for conducting statistical analysis, such as regression, correlations, histograms, etc., to derive insights from the dataset.
@@ -12,6 +13,7 @@ Key Components:
 9. Dynamic Tables: Created dynamic tables to handle changing datasets, allowing for automatic updates and adjustments as new data is added.
 
 #General Store Analysis
+
 Overview: Creating an annual report for a general store to analyze customer behavior and facilitate sales growth in the subsequent year (2023).
 
 1. Sales and Orders Comparison: Analyzed sales and order data to understand business performance trends in 2022.
