@@ -1,4 +1,4 @@
-# E-commerce sales Dashboard and General Store Analysis
+# E-commerce sales Dashboard and Annual Report Analysis (2022)
 
 Overview: Design a sales dashboard that analyzes the sales based on various product categories. The company wants to add user control for product category so that users can select a category and can see the trend month-wise and product-wise accordingly.
 Key Components:
@@ -12,7 +12,7 @@ Key Components:
 8. Data Validation: Implemented data validation rules to ensure data integrity and accuracy, preventing entry of invalid or incorrect data.
 9. Dynamic Tables: Created dynamic tables to handle changing datasets, allowing for automatic updates and adjustments as new data is added.
 
-#General Store Analysis
+# Annual Report Analysis 
 
 Overview: Creating an annual report for a general store to analyze customer behavior and facilitate sales growth in the subsequent year (2023).
 
